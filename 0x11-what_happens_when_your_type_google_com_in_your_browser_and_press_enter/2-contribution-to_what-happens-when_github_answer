@@ -1,0 +1,28 @@
+1: when you type the first letter g
+the browser search for your history
+browser send request to the server
+for searching
+2: Now when you type google.com
+we have to start:
+url:
+it will be
+search || visit
+so you visit the website
+not searching
+3:when you type
+google.com without
+any https or http
+the browser star searching from the list
+
+is the website from http port 80 from https port 443
+4:Url:google.com
+Protocole: https
+Cache:nope
+Host:nope
+DoH enabled: nop
+Dns lookup 53: ok
+ip: ?
+the ip address is important for the wesbite && dns
+request
+
+
